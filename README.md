@@ -1,6 +1,6 @@
 # Hi, I'm Devin
 
-Full-stack software engineer with 8+ years of experience. I build product UIs in React and TypeScript, the APIs and data behind them, and lately AI-powered workflows and agent tooling.
+Full-stack software engineer with 8 years of experience. I build product UIs in React and TypeScript, the APIs and data behind them, and lately AI-powered workflows and agent tooling.
 
 **Work with:** TypeScript · React · Remix · Astro · Node · Python · CSS/Tailwind and design systems · Shopify Hydrogen · Playwright · Claude, MCP, and agent workflows
 
