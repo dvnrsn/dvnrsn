@@ -11,4 +11,4 @@ Full-stack software engineer with 8 years of experience. I build product UIs in 
   <a href="https://whiterabbitwcs.com"><img src="img/whiterabbitwcs-desktop.jpg" width="620" alt="whiterabbitwcs.com home page on desktop"></a> <a href="https://whiterabbitwcs.com"><img src="img/whiterabbitwcs-mobile.jpg" width="150" alt="whiterabbitwcs.com home page on mobile"></a>
 
 - **[westerner.dance](https://westerner.dance)**: line dance library for a local country bar. [Code](https://github.com/dvnrsn/steel-cookie)
-- **[eventkit-mcp](https://github.com/dvnrsn/eventkit-mcp)**: lets Claude manage macOS Calendar and Reminders, with guardrails so it can't change the wrong event. Swift + Python.
+- **[eventkit-mcp](https://github.com/dvnrsn/eventkit-mcp)**: lets Claude manage Apple Calendar and Reminders, with guardrails so it can't change the wrong event. Swift + Python.
